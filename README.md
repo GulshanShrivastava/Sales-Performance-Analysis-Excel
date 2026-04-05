@@ -1,4 +1,4 @@
-# Excel Sales Analysis Project
+# Sales-Performance-Analysis-Excel
 
 This project showcases a basic sales data analysis using **Microsoft Excel**. It demonstrates data cleaning, summary generation through Pivot Tables, and dashboard creation using charts and conditional formatting.
 
